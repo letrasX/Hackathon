@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="HOLYRING" id="52005894-6677-092C-6A44-7F6778EAD1F0" version="3.5">
+<createdBy>pc</createdBy>
+<createdTime>2022-06-10 20:59:54 UTC</createdTime>
+<ownerDesignName>HOLYRING</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>52005894-6677-092C-6A44-7F6778EAD1F0</designId>
+</OSDM_Design>
